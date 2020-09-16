@@ -1,8 +1,11 @@
 # OOAD Project 1
 
 Group members:
+
 Aidan Anderson
+
 Jordan Hernandez
+
 Ahman Woods
 
 
